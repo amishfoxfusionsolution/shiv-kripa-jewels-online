@@ -5,7 +5,7 @@ export const products: Product[] = [
     id: '1',
     name: 'Royal Gold Necklace',
     price: 125000,
-    image: 'https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&h=500&fit=crop',
+    image: 'public/4.png',
     category: 'Necklaces',
     material: 'Gold',
     description: 'Exquisite 22K gold necklace with intricate temple design',
