@@ -366,7 +366,7 @@ export const products: Product[] = [
     "name": "Vertical Stone Pendant",
     "price": 41000,
     "image": "/024.jpeg",
-    "category": "Necklaces",
+    "category": "Rings",
     "material": "Stones",
     "description": "Slim gold pendant with vertically aligned clear stones."
   },
